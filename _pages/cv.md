@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in CS, KAUST, 2023 -- Present
+* B.S. in EE, Xidian University, 2017 -- 2021
 
-Work experience
+Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 -- October 2023: Academic Guest
+  * ETH Zurich, Switzerland
+  * Duties included: Investigating in sparse linear solver and 4bit quantization for transformer.
+  * Supervisor: [Prof Torsten Hoefler](http://htor.inf.ethz.ch/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2021 -- September 2023: Academic Guest
+  * The University of Edinburgh, UK
+  * Duties included: Investigating in sparse linear solver and meta learning.
+  * Supervisor: [Prof Luo Mai](https://luomai.github.io/)
 
-Publications
+* February 2022 -- October 2023: Intern
+  * MegEngine, MegVii Inc, China
+  * Duties included: Maintaining deep learning framework [MegEngine](https://github.com/MegEngine/MegEngine), maintaining and updating internal CUTLASS ([commit](https://github.com/MegEngine/cutlass/commit/a16437eb51d39924691e629104d8d67a2f62e156)), and optimising depth-wise convolution kernels for Ampere devices achieves 5+ times speedup ([commit](https://github.com/MegEngine/cutlass/commit/6e773e30094329ef3c80d30e7a0c09cdddb6001a)).
+  * Mentor: Biao Wang
+
+* April 2021 -- February 2022: Intern
+  * 3D, MegVii Inc, China
+  * Duties included: Designing distributed GPU bundle adjustment library [MegBA](https://github.com/MegviiRobot/MegBA) (accepted by ECCV 2022). Optimising the pipeline of HF-Net using TensorRT and wroting image processing CUDA kernels, which reduced the duration
+  from 20ms to 5ms on 2080Ti.
+  * Team Leader: [Xiao Liu](http://liuxiao.org/), Mentor: Ran Yan
+
+* February 2020 -- March 2021: Visiting Student
+  * Peking University, China
+  * Duties included: Investigating reinforcement learning and Bayesian deep learning.
+  * Supervisor: [Prof Hao Dong](https://zsdonghao.github.io/)
+
+Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Conference Reviewer: ICLR (2023), NeurIPS (2022-2023), ICML (2022-2024), and IROS (2021-2022).
+* Journal Reviewer: IJCV and RA-L.
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* EPSRC Doctoral Prize
+* HiPEAC Grant
