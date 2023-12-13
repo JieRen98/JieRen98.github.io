@@ -44,7 +44,7 @@ Experiences
 
 Service
 ======
-* Conference Reviewer: International Conference on Learning Representations (ICLR) (2023), Neural Information Processing Systems (NeurIPS) (2022-2023), International Conference on Machine Learning (ICML) (2022-2024), and International Conference on Intelligent Robots and Systems (IROS) (2021-2022).
+* Conference Reviewer: International Conference on Parallel Processing (ICPP) (2024), International Conference on Learning Representations (ICLR) (2023), Neural Information Processing Systems (NeurIPS) (2022-2023), International Conference on Machine Learning (ICML) (2022-2024), and International Conference on Intelligent Robots and Systems (IROS) (2021-2022).
 * Journal Reviewer: Parallel Computing, International Journal of Computer Vision (IJCV) and IEEE Robotics and Automation Letters (RA-L).
 
 Awards

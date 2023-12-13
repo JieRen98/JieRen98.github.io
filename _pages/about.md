@@ -15,11 +15,7 @@ My research interest lies in high-performance computing (HPC), supercomputing (S
 News
 ------
 
-[December 2023] I served as the reviewer of Parallel Computing.
-
-[December 2023] I served as the reviewer of International Journal of Computer Vision (IJCV).
-
-[December 2023] I served as the reviewer of International Conference on Machine Learning (ICML) 2024.
+[December 2023] I served as the reviewer of Parallel Computing, International Journal of Computer Vision (IJCV), International Conference on Parallel Processing (ICPP) 2024, and International Conference on Machine Learning (ICML) 2024.
 
 [November 2023] One paper was accepted by Journal of Machine Learning Research (JMLR).
 
