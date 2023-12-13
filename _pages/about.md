@@ -15,13 +15,15 @@ My research interest lies in high-performance computing (HPC), supercomputing (S
 News
 ------
 
-[December 2023] I served as the reviewer of IJCV.
+[December 2023] I served as the reviewer of Parallel Computing.
 
-[December 2023] I served as the reviewer of ICML 23.
+[December 2023] I served as the reviewer of International Journal of Computer Vision (IJCV).
 
-[November 2023] One paper was accepted by JMLR.
+[December 2023] I served as the reviewer of International Conference on Machine Learning (ICML) 2024.
 
-[October 2023] One paper was accepted by NeurIPS 23 workshop on ENLSP.
+[November 2023] One paper was accepted by Journal of Machine Learning Research (JMLR).
+
+[October 2023] One paper was accepted by Neural Information Processing Systems (NeurIPS) 2023 workshop on ENLSP.
 
 [September 2023] I enrolled in the PhD program at KAUST.
 
