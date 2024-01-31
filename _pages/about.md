@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at KAUST, Saudi Arabia, supervised by Dr [Hatem Ltaief](https://cemse.kaust.edu.sa/hicma/people/person/hatem-ltaief) and Prof [David Keyes](https://cemse.kaust.edu.sa/ecrc/people/person/david-keyes). I obtained my B.S. degree from Xidian University, China, in 2021.
+I am a Ph.D. candidate at KAUST, Saudi Arabia, supervised by Dr [Hatem Ltaief](https://cemse.kaust.edu.sa/hicma/people/person/hatem-ltaief) and Prof [David Elliot Keyes](https://cemse.kaust.edu.sa/ecrc/people/person/david-keyes). I obtained my B.S. degree from Xidian University, China, in 2021.
 
 My research interest lies in high-performance computing (HPC), supercomputing (SC), and artificial intelligence (AI).
+
+According to the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php), I am the 16th generation academic descendant of [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton).
+
+Isaac Newton -> Roger Cotes (1) -> Robert Smith (2) -> Walter Taylor (3) -> Stephen Whisson (4) -> Thomas Postlethwaite (5) -> Thomas Jones (6) -> Adam Sedgwick (7) -> William Hopkins (8) -> Arthur Cayley (9) -> Andrew Russell Forsyth (10) -> Edmund Taylor Whittaker (11) -> Arthur Stanley Eddington (12) -> Max Krook (13) -> Donald Gordon M. Anderson (14) -> David Elliot Keyes (15) -> Jie Ren (16)
 
 News
 ------
