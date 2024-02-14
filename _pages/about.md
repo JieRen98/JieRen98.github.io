@@ -14,12 +14,12 @@ My research interest lies in high-performance computing (HPC), supercomputing (S
 
 According to the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php), I am the 16th generation academic descendant of [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton).
 
-Isaac Newton -> Roger Cotes (1) -> Robert Smith (2) -> Walter Taylor (3) -> Stephen Whisson (4) -> Thomas Postlethwaite (5) -> Thomas Jones (6) -> Adam Sedgwick (7) -> William Hopkins (8) -> Arthur Cayley (9) -> Andrew Russell Forsyth (10) -> Edmund Taylor Whittaker (11) -> Arthur Stanley Eddington (12) -> Max Krook (13) -> Donald Gordon M. Anderson (14) -> David Elliot Keyes (15) -> Jie Ren (16)
-
 News
 ------
 
-[December 2023] I served as the reviewer of Parallel Computing, International Journal of Computer Vision (IJCV), International Conference on Parallel Processing (ICPP) 2024, and International Conference on Machine Learning (ICML) 2024.
+[January 2024] I was invited to serve as the AD/AE Reproducibility Committee member of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024.
+
+[December 2023] I was invited to serve as the reviewer of Parallel Computing, International Journal of Computer Vision (IJCV), International Conference on Parallel Processing (ICPP) 2024, and International Conference on Machine Learning (ICML) 2024.
 
 [November 2023] One paper was accepted by Journal of Machine Learning Research (JMLR).
 
