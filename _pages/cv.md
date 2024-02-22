@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D. in CS, KAUST, 2023 -- Present
 * B.S. in EE, Xidian University, 2017 -- 2021
 
 Experiences
 ======
+
 * February 2023 -- October 2023: Academic Guest
   * ETH Zurich, Switzerland
   * Duties included: Investigating in sparse linear solver and 4bit quantization for transformer.
@@ -44,10 +46,12 @@ Experiences
 
 Service
 ======
+
 * Conference Reviewer: International Conference on Parallel Processing (ICPP) (2024), International Conference on Learning Representations (ICLR) (2023), Neural Information Processing Systems (NeurIPS) (2022-2023), International Conference on Machine Learning (ICML) (2022-2024), and International Conference on Intelligent Robots and Systems (IROS) (2021-2022).
 * Journal Reviewer: Parallel Computing, International Journal of Computer Vision (IJCV) and IEEE Robotics and Automation Letters (RA-L).
 
 Awards
 ======
+
 * EPSRC Doctoral Prize
 * HiPEAC Grant
