@@ -17,6 +17,8 @@ According to the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu
 News
 ------
 
+[February 2024] I received the internship offer on HPC and Networking of NVIDIA Research.
+
 [January 2024] I was invited to serve as the AD/AE Reproducibility Committee member of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024.
 
 [December 2023] I was invited to serve as the reviewer of Parallel Computing, International Journal of Computer Vision (IJCV), International Conference on Parallel Processing (ICPP) 2024, and International Conference on Machine Learning (ICML) 2024.
