@@ -16,7 +16,7 @@ According to the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu
 News
 ------
 
-[February 2024] I received the internship offer on HPC and Networking of NVIDIA Research.
+[February 2024] I received the internship offer on HPC and Networking from NVIDIA Research.
 
 [January 2024] I was invited to serve as the AD/AE Reproducibility Committee member of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024.
 
