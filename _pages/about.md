@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at KAUST, Saudi Arabia, supervised by Dr [Hatem Ltaief](https://cemse.kaust.edu.sa/hicma/people/person/hatem-ltaief) and Prof [David Elliot Keyes](https://cemse.kaust.edu.sa/ecrc/people/person/david-keyes). I obtained my B.S. degree from Xidian University, China, in 2021.
+I am currently pursuing a combined MS/PhD program at KAUST in Saudi Arabia, under the guidance of [Dr. Hatem Ltaief](https://cemse.kaust.edu.sa/hicma/people/person/hatem-ltaief) and [Prof. David Elliot Keyes](https://cemse.kaust.edu.sa/ecrc/people/person/david-keyes). I completed my Bachelor of Science at Xidian University, China, in 2021.
 
-My research interest lies in high-performance computing (HPC), supercomputing (SC), and artificial intelligence (AI).
+My research is focused on high-performance computing (HPC), supercomputing (SC), and artificial intelligence (AI).
 
-According to the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php), I am the 16th generation academic descendant of [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton).
+I've cultivated a deep understanding of NVIDIA GPU architectures, including Pascal, Volta, Turing, Ampere, and Hopper. My experience extends to optimizing at the instruction level for these GPUs. Additionally, I possess comprehensive knowledge of the source code and key implementation details of various open-source libraries, such as PyTorch and CUTLASS, and I have actively contributed to several of these projects.
 
 News
 ------
