@@ -16,6 +16,8 @@ I've cultivated a deep understanding of NVIDIA GPU architectures, including Pasc
 News
 ------
 
+[June 2024] I received KAUST Dean's Award for Fall 2024.
+
 [February 2024] I received the internship offer on HPC and Networking from NVIDIA Research.
 
 [January 2024] I was invited to serve as the AD/AE Reproducibility Committee member of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024.

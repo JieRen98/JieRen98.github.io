@@ -53,5 +53,6 @@ Service
 Awards
 ======
 
+* KAUST Dean's Award
 * EPSRC Doctoral Prize
 * HiPEAC Grant
