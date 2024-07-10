@@ -16,6 +16,8 @@ I've cultivated a deep understanding of NVIDIA GPU architectures, including Pasc
 News
 ------
 
+[July 2024] One paper was accepted as a Gordon Bell Prize finalist by the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024.
+
 [June 2024] I received KAUST Dean's Award for Fall 2024.
 
 [February 2024] I received the internship offer on HPC and Networking from NVIDIA Research.

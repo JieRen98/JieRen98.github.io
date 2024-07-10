@@ -53,6 +53,7 @@ Service
 Awards
 ======
 
+* Gordon Bell Prize Finalist
 * KAUST Dean's Award
 * EPSRC Doctoral Prize
 * HiPEAC Grant
