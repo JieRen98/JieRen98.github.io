@@ -18,6 +18,10 @@ Education
 Experiences
 ======
 
+* July 2024 -- Present: Research Intern
+  * NVIDIA, US
+  * To be announced.
+
 * February 2023 -- October 2023: Academic Guest
   * ETH Zurich, Switzerland
   * Duties included: Investigating in sparse linear solver and 4bit quantization for transformer.
